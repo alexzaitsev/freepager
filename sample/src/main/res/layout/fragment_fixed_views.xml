@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sample_bg" >
+
+    <pro.alexzaitsev.freepager.library.view.core.VerticalPager
+        android:id="@+id/vertical_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/sample_bg"
+            android:text="Vertical 0" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/sample_bg"
+            android:text="Vertical 1" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/sample_bg"
+            android:text="Vertical 2" />
+    </pro.alexzaitsev.freepager.library.view.core.VerticalPager>
+
+</FrameLayout>

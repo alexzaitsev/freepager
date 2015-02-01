@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Freepager</string>
+
+    <string-array name="main">
+        <item>Simple Vertical Pager with fixed views</item>
+        <item>Infinite Vertical Pager</item>
+        <item>Infinite Horizontal Pager</item>
+        <item>Infinite Vertical-Horizontal Pager</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="github_project">This project at github</string>
+    <string name="contact_with_author">Contact with author</string>
+    <string name="github">Github</string>
+    <string name="site">Site</string>
+    <string name="google_plus">Google+</string>
+
+    <string name="github_project_link">https://github.com/alexzaitsev/freepager/</string>
+    <string name="github_me_link">https://github.com/alexzaitsev/</string>
+    <string name="site_me_link">http://alex-zaitsev.pro/</string>
+    <string name="google_plus_me_link">https://plus.google.com/+AlexanderZaitsevDev/</string>
+
+</resources>

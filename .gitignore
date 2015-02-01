@@ -1,0 +1,10 @@
+.gradle
+.idea
+.DS_Store
+build
+FreePager.iml
+local.properties
+app/build
+sample/build
+app/app.iml
+sample/sample.iml
