@@ -2,6 +2,8 @@
 
 #### Ready-to-use view pagers for your project. Made by [Alex Zaitsev] (https://plus.google.com/+AlexanderZaitsevDev/)
 
+Based on [NxAlex repository] (https://bitbucket.org/NxAlex/swipes-navigation-demo)
+
 ### Usage:
 
 *For a working implementation look at the ```sample``` module*
