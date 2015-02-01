@@ -8,22 +8,22 @@
 
 * Vertical Pager with fixed views count:
 
-    *FixedViewsFragment.java*
+    *FixedViewsFragment.java*  
     *layout/fragment_fixed_views.xml*
 
 * Infinite Horizontal Pager:
 
-    *InfiniteHorizontalFragment.java*
+    *InfiniteHorizontalFragment.java*  
     *layout/fragment_infinite_horizontal.xml*
 
 * Infinite Vertical Pager:
 
-    *InfiniteVerticalFragment.java*
+    *InfiniteVerticalFragment.java*  
     *layout/fragment_infinite_vertical.xml*
 
 * Infinite Free Pager (both horizontal and vertical directions):
 
-    *FreeFragment.java*
+    *FreeFragment.java*  
     *layout/fragment_infinite_vertical.xml*
 
 ## Compatibility
