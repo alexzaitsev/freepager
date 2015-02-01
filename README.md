@@ -2,7 +2,7 @@
 
 #### Ready-to-use view pagers for your project. Made by [Alex Zaitsev] (https://plus.google.com/+AlexanderZaitsevDev/)
 
-Based on [NxAlex repository] (https://bitbucket.org/NxAlex/swipes-navigation-demo)
+Based on [Swipes navigation demo repository] (https://bitbucket.org/NxAlex/swipes-navigation-demo)
 
 ### Usage:
 
