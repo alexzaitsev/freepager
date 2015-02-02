@@ -4,6 +4,8 @@
 
 Based on [Swipes navigation demo repository] (https://bitbucket.org/NxAlex/swipes-navigation-demo)
 
+![Preview](04.gif)
+
 ### Usage:
 
 *For a working implementation look at the ```sample``` module*
