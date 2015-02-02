@@ -16,17 +16,17 @@ Based on [Swipes navigation demo repository] (https://bitbucket.org/NxAlex/swipe
     [FixedViewsFragment.java](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/java/pro/alexzaitsev/freepager/sample/FixedViewsFragment.java)  
     [fragment_fixed_views.xml](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/res/layout/fragment_fixed_views.xml)
 
-* Infinite Horizontal Pager:
-
-    [Preview](https://github.com/alexzaitsev/freepager/blob/master/02.gif)  
-    [InfiniteHorizontalFragment.java](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/java/pro/alexzaitsev/freepager/sample/InfiniteHorizontalFragment.java)  
-    [fragment_infinite_horizontal.xml](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/res/layout/fragment_infinite_horizontal.xml)  
-
 * Infinite Vertical Pager:
 
-    [Preview](https://github.com/alexzaitsev/freepager/blob/master/03.gif)  
+    [Preview](https://github.com/alexzaitsev/freepager/blob/master/02.gif)  
     [InfiniteVerticalFragment.java](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/java/pro/alexzaitsev/freepager/sample/InfiniteVerticalFragment.java)  
     [fragment_infinite_vertical.xml](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/res/layout/fragment_infinite_vertical.xml)
+
+* Infinite Horizontal Pager:
+
+    [Preview](https://github.com/alexzaitsev/freepager/blob/master/03.gif)  
+    [InfiniteHorizontalFragment.java](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/java/pro/alexzaitsev/freepager/sample/InfiniteHorizontalFragment.java)  
+    [fragment_infinite_horizontal.xml](https://github.com/alexzaitsev/freepager/blob/master/sample/src/main/res/layout/fragment_infinite_horizontal.xml)  
 
 * Infinite Free Pager (both horizontal and vertical directions):
 
