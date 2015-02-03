@@ -8,8 +8,8 @@ android {
         applicationId "pro.alexzaitsev.freepager.sample"
         minSdkVersion 7
         targetSdkVersion 21
-        versionCode 1
-        versionName "1.0"
+        versionCode Integer.parseInt(project.VERSION_CODE)
+        versionName project.VERSION_NAME
     }
 
     compileOptions {
