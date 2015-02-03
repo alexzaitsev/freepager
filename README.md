@@ -14,7 +14,7 @@ Based on [Swipes navigation demo repository] (https://bitbucket.org/NxAlex/swipe
 ```
 
 dependencies {
-    compile 'pro.alexzaitsev:freepager:1.0.0'
+    compile 'pro.alexzaitsev:freepager:1.0.1'
 }
 
 ```
@@ -50,6 +50,10 @@ dependencies {
   * Android 2.1.x (API 7) +
 
 # Changelog
+
+### Version: 1.0.1
+
+  * Class duplicates are removed
 
 ### Version: 1.0
 
