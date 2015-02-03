@@ -1,4 +1,5 @@
-# freepager
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-freepager-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1478)
+# freepager 
 
 #### Ready-to-use view pagers for your project. Made by [Alex Zaitsev] (https://plus.google.com/+AlexanderZaitsevDev/)
 
